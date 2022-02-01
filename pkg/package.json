@@ -1,0 +1,16 @@
+{
+  "name": "permutations",
+  "collaborators": [
+    "Matt Helm <mthelm85@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "permutations_bg.wasm",
+    "permutations.js",
+    "permutations_bg.js",
+    "permutations.d.ts"
+  ],
+  "module": "permutations.js",
+  "types": "permutations.d.ts",
+  "sideEffects": false
+}
